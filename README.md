@@ -12,4 +12,4 @@ to download all the node modules needed.
 ## API Keys and Variables
 Changing variables happens in the ```nodemon.json``` file for local development.A Google API Key is not provided since we generated random latitude & longitudes (however the code does include the api call to the Google API but it is commented).
 
-I was also using Mongo Atlas so the URL provided is that of my MongoDB Atlas database and a user I created  that has read & write permissions.
+I was also using MongoDB Atlas so the URL provided is that of my MongoDB Atlas database and a user I created  that has read & write permissions.
